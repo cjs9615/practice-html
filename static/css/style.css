@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Varela+Round&display=swap');
 
+/*  초기화 */
 * {
     margin: 0;
     padding: 0;
@@ -17,6 +18,8 @@ li{
     width: 1140px;
     margin: 0 auto;
 }
+
+/* 헤더 */
 header{
     position:fixed;
     color:white;
@@ -132,3 +135,6 @@ main h2 span::after {
       opacity: 0;
     }
 }
+
+/* 섹션 */
+
